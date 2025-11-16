@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AmanRanjan07.github.io/amu_portfolioReact/static/css/main.c038cc55.css",
-    "main.js": "/AmanRanjan07.github.io/amu_portfolioReact/static/js/main.6d5b5604.js",
-    "static/media/amucode.png": "/AmanRanjan07.github.io/amu_portfolioReact/static/media/amucode.4c37e7daea7e8da30a95.png",
-    "static/media/DSC05867-Photoroom (1).jpg": "/AmanRanjan07.github.io/amu_portfolioReact/static/media/DSC05867-Photoroom (1).1f95e8ae7f373c18c77f.jpg",
-    "index.html": "/AmanRanjan07.github.io/amu_portfolioReact/index.html",
-    "main.c038cc55.css.map": "/AmanRanjan07.github.io/amu_portfolioReact/static/css/main.c038cc55.css.map",
-    "main.6d5b5604.js.map": "/AmanRanjan07.github.io/amu_portfolioReact/static/js/main.6d5b5604.js.map"
+    "main.css": "/amu_portfolioReact/static/css/main.c038cc55.css",
+    "main.js": "/amu_portfolioReact/static/js/main.d315fa73.js",
+    "static/media/amucode.png": "/amu_portfolioReact/static/media/amucode.4c37e7daea7e8da30a95.png",
+    "static/media/DSC05867-Photoroom (1).jpg": "/amu_portfolioReact/static/media/DSC05867-Photoroom (1).1f95e8ae7f373c18c77f.jpg",
+    "index.html": "/amu_portfolioReact/index.html",
+    "main.c038cc55.css.map": "/amu_portfolioReact/static/css/main.c038cc55.css.map",
+    "main.d315fa73.js.map": "/amu_portfolioReact/static/js/main.d315fa73.js.map"
   },
   "entrypoints": [
     "static/css/main.c038cc55.css",
-    "static/js/main.6d5b5604.js"
+    "static/js/main.d315fa73.js"
   ]
 }
