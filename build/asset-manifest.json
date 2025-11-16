@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92579fcd.css",
+    "main.js": "/static/js/main.6212cf14.js",
+    "static/media/DSC05867-Photoroom (1).jpg": "/static/media/DSC05867-Photoroom (1).1f95e8ae7f373c18c77f.jpg",
+    "index.html": "/index.html",
+    "main.92579fcd.css.map": "/static/css/main.92579fcd.css.map",
+    "main.6212cf14.js.map": "/static/js/main.6212cf14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92579fcd.css",
+    "static/js/main.6212cf14.js"
+  ]
+}
